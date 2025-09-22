@@ -1,0 +1,8 @@
+[
+  {"id": 1, "name": "Laptop", "category": "Electronics", "price": 350000, "rating": 4.5},
+  {"id": 2, "name": "Headphones", "category": "Electronics", "price": 25000, "rating": 4.1},
+  {"id": 3, "name": "Shoes", "category": "Fashion", "price": 18000, "rating": 4.3},
+  {"id": 4, "name": "Backpack", "category": "Fashion", "price": 12000, "rating": 4.0},
+  {"id": 5, "name": "Coffee Maker", "category": "Home", "price": 50000, "rating": 4.6},
+  {"id": 6, "name": "Microwave", "category": "Home", "price": 80000, "rating": 4.4}
+]
